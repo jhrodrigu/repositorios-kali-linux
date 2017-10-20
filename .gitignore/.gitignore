@@ -1,0 +1,101 @@
+deb http://http.kali.org/kali kali-rolling main non-free contrib
+
+# deb-src http://http.kali.org/kali kali-rolling main non-free contrib
+
+deb http://http.debian.net/debian/ jessie main contrib non-free
+
+deb http://http.kali.org/kali kali-rolling main contrib non-free
+
+# For source package access, uncomment the following line
+
+# deb-src http://http.kali.org/kali kali-rolling main contrib non-free
+
+deb http://old.kali.org/kali sana main non-free contrib
+
+# For source package access, uncomment the following line
+
+# deb-src http://old.kali.org/kali sana main non-free contrib
+
+deb http://http.kali.org/kali kali-rolling main contrib non-free
+
+deb http://http.kali.org/kali kali main contrib non-free
+
+deb http://http.kali.org/kali sana main contrib non-free
+
+deb http://http.kali.org/kali sana main non-free contrib
+
+deb http://security.kali.org/kali-security sana/updates main contrib non-free
+
+deb http://repo.kali.org/kali kali-bleeding-edge main
+
+deb-src http://repo.kali.org/kali kali-bleeding-edge main
+
+deb http://kali.cs.nctu.edu.tw/ /kali main contrib non-free
+
+deb http://kali.cs.nctu.edu.tw/ /wheezy main contrib non-free
+
+deb http://kali.cs.nctu.edu.tw/kali kali-dev main contrib non-free
+
+deb http://kali.cs.nctu.edu.tw/kali kali-dev main/debian-installer
+
+deb-src http://kali.cs.nctu.edu.tw/kali kali-dev main contrib non-free
+
+deb http://kali.cs.nctu.edu.tw/kali kali main contrib non-free
+
+deb http://kali.cs.nctu.edu.tw/kali kali main/debian-installer
+
+deb-src http://kali.cs.nctu.edu.tw/kali kali main contrib non-free
+
+deb http://kali.cs.nctu.edu.tw/kali-security kali/updates main contrib non-free
+
+deb-src http://kali.cs.nctu.edu.tw/kali-security kali/updates main contrib non-free
+
+deb http://kali.cs.nctu.edu.tw/kali kali-bleeding-edge main
+
+
+
+deb http://http.kali.org/kali kali-rolling main non-free contrib
+
+# deb-src http://http.kali.org/kali kali-rolling main non-free contrib
+
+deb http://http.debian.net/debian/ jessie main contrib non-free
+
+deb http://http.kali.org/kali kali-rolling main contrib non-free
+
+#For source package access, uncomment the following line
+
+# deb-src http://http.kali.org/kali kali-rolling main contrib non-free
+
+deb http://old.kali.org/kali sana main non-free contrib
+
+# For source package access, uncomment the following line
+
+# deb-src http://old.kali.org/kali sana main non-free contrib
+
+
+
+deb http://http.kali.org/kali-security sana/updates main contrib non-free
+
+deb http://kali.cs.nctu.edu.tw/ /kali main contrib non-free
+
+deb http://kali.cs.nctu.edu.tw/ /wheezy main contrib non-free
+
+deb http://kali.cs.nctu.edu.tw/kali kali-dev main contrib non-free
+
+deb http://kali.cs.nctu.edu.tw/kali kali-dev main/debian-installer
+
+deb-src http://kali.cs.nctu.edu.tw/kali kali-dev main contrib non-free
+
+deb http://kali.cs.nctu.edu.tw/kali kali main contrib non-free
+
+deb http://kali.cs.nctu.edu.tw/kali kali main/debian-installer
+
+deb-src http://kali.cs.nctu.edu.tw/kali kali main contrib non-free
+
+deb http://kali.cs.nctu.edu.tw/kali-security kali/updates main contrib non-free
+
+deb-src http://kali.cs.nctu.edu.tw/kali-security kali/updates main contrib non-free
+
+deb http://kali.cs.nctu.edu.tw/kali kali-bleeding-edge main
+
+deb http://snapshot.debian.org/achive/debian/20120616T042917Z/ wheezy main
